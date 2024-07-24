@@ -119,3 +119,17 @@
   width: 100%;
   height: 100%;
 }
+
+@media (max-width: 620px) {
+  #container {
+    display: block;
+  }
+
+  #topSquareTwo {
+    left: 23.1%;
+  }
+
+  #hinge {
+    display: none;
+  }
+}
